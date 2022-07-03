@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shivesh_02_11" target="blank"><img src="https://img.shields.io/twitter/follow/shivesh_02_11?logo=twitter&style=for-the-badge" alt="shivesh_02_11" /></a> </p>
 
-- 🔭 I’m currently working as **Data Science & Business Analytics Intern at The Spark Foundation**
+- 🔭 I’m currently working as **Data Science Intern at Denave Private Limited**
 
 - 🌱 I’m currently learning **Qiskit , Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Quantum Machine Learning**
+- 👯 I’m looking to collaborate on **Quantum Computing and Data Science**
 
 - 🤝 I’m looking for help with **Quantum Computing**
 
